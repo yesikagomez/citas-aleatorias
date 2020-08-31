@@ -5,10 +5,10 @@ function Datos ({cita,autor,tw}) {
     return(
         <div id="quote-box">
             <div class="notification">
-                <label className="title is-1 purple" id="text">"{cita}"</label>
+                <label className="title is-1 label-color" id="text">"{cita}"</label>
                 <br/>
                 <br/>
-                <label className="title is-3 purple" id="author">-{autor}</label>
+                <label className="title is-3 label-color" id="author">-{autor}</label>
                 <div>
                     <a href="/" className="buttons has-addons is-right">
                         <button className="button is-danger is-rounded" id="new-quote">New Quote</button>
