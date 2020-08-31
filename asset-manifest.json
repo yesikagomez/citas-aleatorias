@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yesikagomez/citas-aleatorias/static/css/main.0e05f2cb.chunk.css",
+    "main.js": "/yesikagomez/citas-aleatorias/static/js/main.7ce1910d.chunk.js",
+    "main.js.map": "/yesikagomez/citas-aleatorias/static/js/main.7ce1910d.chunk.js.map",
+    "runtime-main.js": "/yesikagomez/citas-aleatorias/static/js/runtime-main.fdfa091a.js",
+    "runtime-main.js.map": "/yesikagomez/citas-aleatorias/static/js/runtime-main.fdfa091a.js.map",
+    "static/css/2.240f97b7.chunk.css": "/yesikagomez/citas-aleatorias/static/css/2.240f97b7.chunk.css",
+    "static/js/2.c7c0d617.chunk.js": "/yesikagomez/citas-aleatorias/static/js/2.c7c0d617.chunk.js",
+    "static/js/2.c7c0d617.chunk.js.map": "/yesikagomez/citas-aleatorias/static/js/2.c7c0d617.chunk.js.map",
+    "index.html": "/yesikagomez/citas-aleatorias/index.html",
+    "precache-manifest.35ffc4e1cde45fb528b17faa71ce5138.js": "/yesikagomez/citas-aleatorias/precache-manifest.35ffc4e1cde45fb528b17faa71ce5138.js",
+    "service-worker.js": "/yesikagomez/citas-aleatorias/service-worker.js",
+    "static/css/2.240f97b7.chunk.css.map": "/yesikagomez/citas-aleatorias/static/css/2.240f97b7.chunk.css.map",
+    "static/css/main.0e05f2cb.chunk.css.map": "/yesikagomez/citas-aleatorias/static/css/main.0e05f2cb.chunk.css.map",
+    "static/js/2.c7c0d617.chunk.js.LICENSE.txt": "/yesikagomez/citas-aleatorias/static/js/2.c7c0d617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdfa091a.js",
+    "static/css/2.240f97b7.chunk.css",
+    "static/js/2.c7c0d617.chunk.js",
+    "static/css/main.0e05f2cb.chunk.css",
+    "static/js/main.7ce1910d.chunk.js"
+  ]
+}
